@@ -1,9 +1,5 @@
 #pragma once
 
-/*
-	C:\\Users\\petra\\Code\\Movie-Library\\assets\\
-	assets\\
-*/
 #define ASSET_PATH "C:\\Users\\petra\\Code\\Movie-Library\\assets\\"
 
 #define WINDOW_WIDTH 1200
